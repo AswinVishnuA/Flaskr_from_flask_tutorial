@@ -2,7 +2,8 @@ attrs==21.2.0
 click==8.0.1
 coverage==5.5
 Flask==2.0.1
--e git+https://github.com/AswinVishnuA/Flaskr_from_flask_tutorial.git@f66a91cdb5617abbc3c57f0b6b3abc2251ce30c0#egg=flaskr
+-e git+https://github.com/AswinVishnuA/Flaskr_from_flask_tutorial.git@c2bc8aa9a781d2bc463ccdafb9fd4e742e798d90#egg=flaskr
+gunicorn==20.1.0
 iniconfig==1.1.1
 itsdangerous==2.0.1
 Jinja2==3.0.1
